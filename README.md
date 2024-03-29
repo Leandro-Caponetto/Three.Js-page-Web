@@ -1,4 +1,4 @@
-![Gradient HDR Header](./Gradient_HDR_Header.jpg)
+
 
 # Gradient HDR Pack Freebie
 
